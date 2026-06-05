@@ -1,0 +1,117 @@
+Script started on 2026-06-05 10:32:19+07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="55" LINES="30"]
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ apropos disk
+[?2004larm_sync_file_range (2) - sync a file segment with disk
+cfdisk (8)           - display or manipulate a disk ...
+cgdisk (8)           - Curses-based GUID partition t...
+df (1)               - report file system disk space...
+eatmydata (1)        - transparently disable fsync()...
+fdisk (8)            - manipulate disk partition table
+gdisk (8)            - Interactive GUID partition ta...
+git-count-objects (1) - Count unpacked number of obj...
+git-credential-store (1) - Helper to store credentia...
+hd (4)               - MFM/IDE hard disk devices
+initrd (4)           - boot loader initialized RAM disk
+pam_setquota (8)     - PAM module to set or modify d...
+partx (8)            - tell the kernel about the pre...
+quotactl (2)         - manipulate disk quotas
+ram (4)              - ram disk device
+sd (4)               - driver for SCSI disk drives
+sfdisk (8)           - display or manipulate a disk ...
+sgdisk (8)           - Command-line GUID partition t...
+sync (2)             - commit filesystem caches to disk
+sync_file_range (2)  - sync a file segment with disk
+sync_file_range2 (2) - sync a file segment with disk
+syncfs (2)           - commit filesystem caches to disk
+systemd-cryptsetup (8) - Full disk decryption logic
+systemd-cryptsetup@.service (8) - Full disk decrypti...
+systemd-machine-id-commi... (8) - Commit a transient...
+systemd-veritysetup (8) - Disk verity protection logic
+systemd-veritysetup@.ser... (8) - Disk verity protec...
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ man df
+[?2004l[?1049h[22;0;0t[?1h=DF(1)               User Commands               DF(1)[m
+[m
+[1mNAME[0m[m
+       df - report file system disk space usage[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mdf[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual page documents the GNU version of[m
+       [1mdf[0m.  [1mdf[0m displays  the  amount  of  disk  space[m
+       available  on  the file system containing each[m
+       file name argument.  If no file name is given,[m
+       the  space  available on all currently mounted[m
+       file systems is shown.  Disk space is shown in[m
+       1K  blocks  by default, unless the environment[m
+       variable POSIXLY_CORRECT is set, in which case[m
+       512-byte blocks are used.[m
+[m
+       If  an argument is the absolute file name of a[m
+       disk device node  containing  a  mounted  file[m
+       system,  [1mdf[0m  shows the space available on that[m
+       file system rather than  on  the  file  system[m
+       containing  the  device node.  This version of[m
+       [1mdf[0m cannot show  the  space  available  on  un‐[m
+       mounted file systems, because on most kinds of[m
+       systems doing so requires very nonportable in‐[m
+       timate knowledge of file system structures.[m
+[m
+[7mual page df(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mOPTIONS[0m[m
+[7mual page df(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Show  information  about  the  file  system on[m
+[7mual page df(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       which each FILE resides, or all  file  systems[m
+[7mual page df(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       by default.[m
+[7mual page df(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7mual page df(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Mandatory arguments to long options are manda‐[m
+[7mual page df(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       tory for short options too.[m
+[7mual page df(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7mual page df(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-a[0m, [1m--all[0m[m
+[7mal page df(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              include pseudo, duplicate, inaccessible[m
+[7mal page df(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              file systems[m
+[7mal page df(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7mal page df(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-B[0m, [1m--block-size[0m=[4mSIZE[24m[m
+[7mal page df(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              scale  sizes  by  SIZE  before printing[m
+[7mal page df(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              them; e.g., '-BM' prints sizes in units[m
+[7mal page df(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              of 1,048,576 bytes; see SIZE format be‐[m
+[7mal page df(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              low[m
+[7mal page df(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7mal page df(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-h[0m, [1m--human-readable[0m[m
+[7mal page df(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              print sizes in powers  of  1024  (e.g.,[m
+[7mal page df(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              1023M)[m
+[7mal page df(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7mal page df(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-H[0m, [1m--si[0m[m
+[7mal page df(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              print  sizes  in  powers of 1000 (e.g.,[m
+[7mal page df(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              1.1G)[m
+[7mal page df(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7mal page df(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-i[0m, [1m--inodes[0m[m
+[7mal page df(1) line 28 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ df -h
+[?2004lFilesystem      Size  Used Avail Use% Mounted on
+/dev/sdd        251G   15G  224G   7% /
+rootfs          3.9G  2.8M  3.9G   1% /init
+none            3.9G     0  3.9G   0% /dev/shm
+none            3.9G  852K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G   44K  3.9G   1% /run/user
+tmpfs           792M  8.0K  791M   1% /run/user/1000
+drivers         232G  192G   40G  83% /usr/lib/wsl/drivers
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+none            3.9G   80K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   80K  3.9G   1% /mnt/wslg/doc
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.114.1-microsoft-standard-WSL2
+snapfuse        128K  128K     0 100% /snap/bare/5
+snapfuse         49M   49M     0 100% /snap/snapd/26382
+snapfuse         74M   74M     0 100% /snap/core22/2292
+snapfuse         92M   92M     0 100% /snap/gtk-common-themes/1535
+snapfuse         50M   50M     0 100% /snap/snapd/26865
+snapfuse         74M   74M     0 100% /snap/core22/2339
+snapfuse        132M  132M     0 100% /snap/ubuntu-desktop-installer/1286
+snapfuse        151M  151M     0 100% /snap/ubuntu-desktop-installer/967
+C:\             232G  192G   40G  83% /mnt/c
+D:\             465G  307G  159G  66% /mnt/d
+E:\             932G  890G   42G  96% /mnt/e
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ df -hman df[1Pdf -h > exr3/disk_usage.txt
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2026-06-05 10:33:33+07:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,15 @@
+Script started on 2026-06-05 10:35:50+07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="49" LINES="34"]
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ sli[Keep 300 &
+[?2004l[1] 2405
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ pgrep sleep
+[?2004l2405
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ ps aux | grep sleep
+[?2004lchebur      2405  0.0  0.0   3216  2012 pts/5    S    10:36   0:00 [01;31m[Ksleep[m[K 300
+chebur      2408  0.0  0.0   4032  2332 pts/5    S+   10:36   0:00 grep --color=auto [01;31m[Ksleep[m[K
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ kill 204[K[K406[K5
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ kill 2405ps aux | grep sleep[8P[C[C[C[C[C[C[C[C[C[C
+[?2004l[1]+  Terminated              sleep 300
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2026-06-05 10:36:36+07:00 [COMMAND_EXIT_CODE="1"]

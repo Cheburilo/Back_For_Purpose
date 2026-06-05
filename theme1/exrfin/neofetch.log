@@ -1,0 +1,401 @@
+Script started on 2026-06-05 11:03:18+07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="49" LINES="34"]
+Welcome back, %USER! Today is Friday.
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ sudo apt install fastfe tch
+[?2004l[sudo] password for chebur: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+[1;31mE: [0mUnable to locate package fastfetch[0m
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ sudo apt install fastfetch[A]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cneofet ch
+[?2004lReading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  hwdata libice6 libluajit-5.1-2
+  libluajit-5.1-common libmpack0 libmsgpackc2
+  libsm6 libsodium23 libtermkey1
+  libtree-sitter0 libunibilium4 libvterm0
+  libxmu6 libxt6
+  linux-realtime-tools-5.15.0-1032
+  linux-tools-5.15.0-1032-realtime
+  linux-tools-common linux-tools-realtime
+  lua-coxpcall lua-luv lua-mpack neovim-runtime
+  python3-greenlet python3-msgpack vim-runtime
+  xclip
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  caca-utils chafa fonts-droid-fallback
+  fonts-noto-mono fonts-urw-base35 ghostscript
+  gsfonts imagemagick imagemagick-6-common
+  imagemagick-6.q16 jp2a libaom3 libcaca0
+  libchafa0 libdav1d5 libde265-0
+  libdjvulibre-text libdjvulibre21
+  libfftw3-double3 libgif7 libgs9 libgs9-common
+  libheif1 libid3tag0 libidn12 libijs-0.35
+  libilmbase25 libimlib2 libjbig2dec0
+  libjxr-tools libjxr0 liblqr-1-0 libltdl7
+  libmagickcore-6.q16-6
+  libmagickcore-6.q16-6-extra
+  libmagickwand-6.q16-6 libnetpbm10
+  libopenexr25 libopenjp2-7 libpaper-utils
+  libpaper1 libsixel-bin libsixel1
+  libwebpdemux2 libwebpmux3 libwmflite-0.2-7
+  libx11-xcb1 libx265-199 netpbm poppler-data
+  toilet toilet-fonts w3m w3m-img
+Suggested packages:
+  fonts-noto fonts-freefont-otf
+  | fonts-freefont-ttf fonts-texgyre
+  ghostscript-x imagemagick-doc autotrace
+  cups-bsd | lpr | lprng enscript ffmpeg gimp
+  gnuplot grads graphviz hp2xx html2ps
+  libwmf-bin mplayer povray radiance sane-utils
+  texlive-base-bin transfig ufraw-batch
+  xdg-utils libfftw3-bin libfftw3-dev inkscape
+  poppler-utils fonts-japanese-mincho
+  | fonts-ipafont-mincho fonts-japanese-gothic
+  | fonts-ipafont-gothic fonts-arphic-ukai
+  fonts-arphic-uming fonts-nanum figlet cmigemo
+  dict dict-wn dictd mime-support w3m-el xsel
+The following NEW packages will be installed:
+  caca-utils chafa fonts-droid-fallback
+  fonts-noto-mono fonts-urw-base35 ghostscript
+  gsfonts imagemagick imagemagick-6-common
+  imagemagick-6.q16 jp2a libaom3 libcaca0
+  libchafa0 libdav1d5 libde265-0
+  libdjvulibre-text libdjvulibre21
+  libfftw3-double3 libgif7 libgs9 libgs9-common
+  libheif1 libid3tag0 libidn12 libijs-0.35
+  libilmbase25 libimlib2 libjbig2dec0
+  libjxr-tools libjxr0 liblqr-1-0 libltdl7
+  libmagickcore-6.q16-6
+  libmagickcore-6.q16-6-extra
+  libmagickwand-6.q16-6 libnetpbm10
+  libopenexr25 libopenjp2-7 libpaper-utils
+  libpaper1 libsixel-bin libsixel1
+  libwebpdemux2 libwebpmux3 libwmflite-0.2-7
+  libx11-xcb1 libx265-199 neofetch netpbm
+  poppler-data toilet toilet-fonts w3m w3m-img
+0 upgraded, 55 newly installed, 0 to remove and 13 not upgraded.
+Need to get 11.5 MB/33.0 MB of archives.
+After this operation, 125 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Y
+[33m66% [Working][0m[33m66% [Waiting for headers][0m                         Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 libaom3 amd64 3.3.0-1ubuntu0.1 [1748 kB]
+[33m66% [1 libaom3 1741 B/1748 kB 0%][0m[33m68% [1 libaom3 794 kB/1748 kB 45%][0m[33m                                  70% [Working][0m             Get:2 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 libde265-0 amd64 1.0.8-1ubuntu0.3 [290 kB]
+[33m70% [2 libde265-0 4199 B/290 kB 1%][0m[33m                                   72% [Waiting for headers][0m                         Get:3 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libopenjp2-7 amd64 2.4.0-6ubuntu0.5 [158 kB]
+[33m72% [3 libopenjp2-7 6655 B/158 kB 4%][0m[33m                                     72% [Waiting for headers][0m                         Get:4 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 imagemagick-6-common all 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 [64.3 kB]
+[33m72% [4 imagemagick-6-common 9113 B/64.3 kB 14%][0m[33m                                               73% [Waiting for headers][0m                         Get:5 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 libmagickcore-6.q16-6 amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 [1795 kB]
+[33m73% [5 libmagickcore-6.q16-6 2969 B/1795 kB 0%][0m[33m                                               78% [Working][0m             Get:6 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 libmagickwand-6.q16-6 amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 [328 kB]
+[33m78% [6 libmagickwand-6.q16-6 22.1 kB/328 kB 7%][0m[33m                                               79% [Waiting for headers][0m                         Get:7 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libcaca0 amd64 0.99.beta19-2.2ubuntu4.2 [224 kB]
+[33m79% [7 libcaca0 68.9 kB/224 kB 31%][0m[33m                                   80% [Working][0m             Get:8 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libgif7 amd64 5.1.9-2ubuntu0.1 [33.9 kB]
+[33m80% [8 libgif7 33.9 kB/33.9 kB 100%][0m[33m                                    80% [Working][0m             Get:9 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 caca-utils amd64 0.99.beta19-2.2ubuntu4.2 [57.2 kB]
+[33m80% [9 caca-utils 6109 B/57.2 kB 11%][0m[33m                                     81% [Working][0m             Get:10 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libgs9-common all 9.55.0~dfsg1-0ubuntu5.13 [753 kB]
+[33m81% [10 libgs9-common 43.8 kB/753 kB 6%][0m[33m                                        83% [Waiting for headers][0m                         Get:11 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libgs9 amd64 9.55.0~dfsg1-0ubuntu5.13 [5032 kB]
+[33m83% [11 libgs9 46.6 kB/5032 kB 1%][0m[33m95% [11 libgs9 4889 kB/5032 kB 97%][0m[33m                                   95% [Waiting for headers][0m                         Get:12 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 ghostscript amd64 9.55.0~dfsg1-0ubuntu5.13 [49.4 kB]
+[33m95% [12 ghostscript 46.7 kB/49.4 kB 94%][0m[33m                                        96% [Working][0m             Get:13 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 imagemagick-6.q16 amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 [224 kB]
+[33m96% [13 imagemagick-6.q16 62.1 kB/224 kB 28%][0m[33m                                             97% [Waiting for headers][0m                         Get:14 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 imagemagick amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 [14.6 kB]
+[33m97% [14 imagemagick 14.6 kB/14.6 kB 100%][0m[33m                                         97% [Working][0m             Get:15 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libdjvulibre-text all 3.5.28-2ubuntu0.22.04.2 [51.1 kB]
+[33m97% [15 libdjvulibre-text 32.7 kB/51.1 kB 64%][0m[33m                                              98% [Waiting for headers][0m                         Get:16 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libdjvulibre21 amd64 3.5.28-2ubuntu0.22.04.2 [625 kB]
+[33m98% [16 libdjvulibre21 46.4 kB/625 kB 7%][0m[33m                                         99% [Waiting for headers][0m                         Get:17 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 libmagickcore-6.q16-6-extra amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 [70.1 kB]
+[33m100% [17 libmagickcore-6.q16-6-extra 58.8 kB/70.[0m[33m                                                100% [Working][0m              Fetched 11.5 MB in 3s (4533 kB/s)
+Extracting templates from packages: 54%Extracting templates from packages: 100%
+Preconfiguring packages ...
+
+7[0;33r8[1ASelecting previously unselected package fonts-droid-fallback.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 86505 files and directories currently installed.)
+Preparing to unpack .../00-fonts-droid-fallback_1%3a6.0.1r16-1.1build1_all.deb ...
+7[34;0f[42m[30mProgress: [  0%][49m[39m [...........................] 8Unpacking fonts-droid-fallback (1:6.0.1r16-1.1build1) ...
+Selecting previously unselected package libfftw3-double3:amd64.
+Preparing to unpack .../01-libfftw3-double3_3.3.8-2ubuntu8_amd64.deb ...
+7[34;0f[42m[30mProgress: [  1%][49m[39m [...........................] 8Unpacking libfftw3-double3:amd64 (3.3.8-2ubuntu8) ...
+Selecting previously unselected package libaom3:amd64.
+Preparing to unpack .../02-libaom3_3.3.0-1ubuntu0.1_amd64.deb ...
+7[34;0f[42m[30mProgress: [  2%][49m[39m [...........................] 8Unpacking libaom3:amd64 (3.3.0-1ubuntu0.1) ...
+Selecting previously unselected package libdav1d5:amd64.
+Preparing to unpack .../03-libdav1d5_0.9.2-1_amd64.deb ...
+7[34;0f[42m[30mProgress: [  3%][49m[39m [...........................] 8Unpacking libdav1d5:amd64 (0.9.2-1) ...
+Selecting previously unselected package libde265-0:amd64.
+Preparing to unpack .../04-libde265-0_1.0.8-1ubuntu0.3_amd64.deb ...
+7[34;0f[42m[30mProgress: [  4%][49m[39m [#..........................] 8Unpacking libde265-0:amd64 (1.0.8-1ubuntu0.3) ...
+Selecting previously unselected package libx265-199:amd64.
+Preparing to unpack .../05-libx265-199_3.5-2_amd64.deb ...
+Unpacking libx265-199:amd64 (3.5-2) ...
+7[34;0f[42m[30mProgress: [  5%][49m[39m [#..........................] 8Selecting previously unselected package libheif1:amd64.
+Preparing to unpack .../06-libheif1_1.12.0-2build1_amd64.deb ...
+Unpacking libheif1:amd64 (1.12.0-2build1) ...
+7[34;0f[42m[30mProgress: [  6%][49m[39m [#..........................] 8Selecting previously unselected package liblqr-1-0:amd64.
+Preparing to unpack .../07-liblqr-1-0_0.4.2-2.1_amd64.deb ...
+Unpacking liblqr-1-0:amd64 (0.4.2-2.1) ...
+7[34;0f[42m[30mProgress: [  7%][49m[39m [#..........................] 8Selecting previously unselected package libltdl7:amd64.
+Preparing to unpack .../08-libltdl7_2.4.6-15build2_amd64.deb ...
+Unpacking libltdl7:amd64 (2.4.6-15build2) ...
+7[34;0f[42m[30mProgress: [  8%][49m[39m [##.........................] 8Selecting previously unselected package libopenjp2-7:amd64.
+Preparing to unpack .../09-libopenjp2-7_2.4.0-6ubuntu0.5_amd64.deb ...
+Unpacking libopenjp2-7:amd64 (2.4.0-6ubuntu0.5) ...
+7[34;0f[42m[30mProgress: [  9%][49m[39m [##.........................] 8Selecting previously unselected package libwebpdemux2:amd64.
+Preparing to unpack .../10-libwebpdemux2_1.2.2-2ubuntu0.22.04.2_amd64.deb ...
+Unpacking libwebpdemux2:amd64 (1.2.2-2ubuntu0.22.04.2) ...
+Selecting previously unselected package libwebpmux3:amd64.
+Preparing to unpack .../11-libwebpmux3_1.2.2-2ubuntu0.22.04.2_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 10%][49m[39m [##.........................] 8Unpacking libwebpmux3:amd64 (1.2.2-2ubuntu0.22.04.2) ...
+Selecting previously unselected package imagemagick-6-common.
+Preparing to unpack .../12-imagemagick-6-common_8%3a6.9.11.60+dfsg-1.3ubuntu0.22.04.5_all.deb ...
+7[34;0f[42m[30mProgress: [ 11%][49m[39m [###........................] 8Unpacking imagemagick-6-common (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+Selecting previously unselected package libmagickcore-6.q16-6:amd64.
+Preparing to unpack .../13-libmagickcore-6.q16-6_8%3a6.9.11.60+dfsg-1.3ubuntu0.22.04.5_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 12%][49m[39m [###........................] 8Unpacking libmagickcore-6.q16-6:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+Selecting previously unselected package libmagickwand-6.q16-6:amd64.
+Preparing to unpack .../14-libmagickwand-6.q16-6_8%3a6.9.11.60+dfsg-1.3ubuntu0.22.04.5_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 13%][49m[39m [###........................] 8Unpacking libmagickwand-6.q16-6:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+Selecting previously unselected package poppler-data.
+Preparing to unpack .../15-poppler-data_0.4.11-1_all.deb ...
+7[34;0f[42m[30mProgress: [ 14%][49m[39m [###........................] 8Unpacking poppler-data (0.4.11-1) ...
+Selecting previously unselected package libcaca0:amd64.
+Preparing to unpack .../16-libcaca0_0.99.beta19-2.2ubuntu4.2_amd64.deb ...
+Unpacking libcaca0:amd64 (0.99.beta19-2.2ubuntu4.2) ...
+7[34;0f[42m[30mProgress: [ 15%][49m[39m [####.......................] 8Selecting previously unselected package libgif7:amd64.
+Preparing to unpack .../17-libgif7_5.1.9-2ubuntu0.1_amd64.deb ...
+Unpacking libgif7:amd64 (5.1.9-2ubuntu0.1) ...
+7[34;0f[42m[30mProgress: [ 16%][49m[39m [####.......................] 8Selecting previously unselected package libid3tag0:amd64.
+Preparing to unpack .../18-libid3tag0_0.15.1b-14_amd64.deb ...
+Unpacking libid3tag0:amd64 (0.15.1b-14) ...
+7[34;0f[42m[30mProgress: [ 17%][49m[39m [####.......................] 8Selecting previously unselected package libx11-xcb1:amd64.
+Preparing to unpack .../19-libx11-xcb1_2%3a1.7.5-1ubuntu0.3_amd64.deb ...
+Unpacking libx11-xcb1:amd64 (2:1.7.5-1ubuntu0.3) ...
+7[34;0f[42m[30mProgress: [ 18%][49m[39m [####.......................] 8Selecting previously unselected package libimlib2:amd64.
+Preparing to unpack .../20-libimlib2_1.7.4-1build1_amd64.deb ...
+Unpacking libimlib2:amd64 (1.7.4-1build1) ...
+7[34;0f[42m[30mProgress: [ 19%][49m[39m [#####......................] 8Selecting previously unselected package caca-utils.
+Preparing to unpack .../21-caca-utils_0.99.beta19-2.2ubuntu4.2_amd64.deb ...
+Unpacking caca-utils (0.99.beta19-2.2ubuntu4.2) ...
+Selecting previously unselected package libchafa0:amd64.
+Preparing to unpack .../22-libchafa0_1.8.0-1_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 20%][49m[39m [#####......................] 8Unpacking libchafa0:amd64 (1.8.0-1) ...
+Selecting previously unselected package chafa.
+Preparing to unpack .../23-chafa_1.8.0-1_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 21%][49m[39m [#####......................] 8Unpacking chafa (1.8.0-1) ...
+Selecting previously unselected package fonts-noto-mono.
+Preparing to unpack .../24-fonts-noto-mono_20201225-1build1_all.deb ...
+7[34;0f[42m[30mProgress: [ 22%][49m[39m [#####......................] 8Unpacking fonts-noto-mono (20201225-1build1) ...
+Selecting previously unselected package fonts-urw-base35.
+Preparing to unpack .../25-fonts-urw-base35_20200910-1_all.deb ...
+7[34;0f[42m[30mProgress: [ 23%][49m[39m [######.....................] 8Unpacking fonts-urw-base35 (20200910-1) ...
+Selecting previously unselected package libgs9-common.
+Preparing to unpack .../26-libgs9-common_9.55.0~dfsg1-0ubuntu5.13_all.deb ...
+Unpacking libgs9-common (9.55.0~dfsg1-0ubuntu5.13) ...
+7[34;0f[42m[30mProgress: [ 24%][49m[39m [######.....................] 8Selecting previously unselected package libidn12:amd64.
+Preparing to unpack .../27-libidn12_1.38-4ubuntu1_amd64.deb ...
+Unpacking libidn12:amd64 (1.38-4ubuntu1) ...
+7[34;0f[42m[30mProgress: [ 25%][49m[39m [######.....................] 8Selecting previously unselected package libijs-0.35:amd64.
+Preparing to unpack .../28-libijs-0.35_0.35-15build2_amd64.deb ...
+Unpacking libijs-0.35:amd64 (0.35-15build2) ...
+7[34;0f[42m[30mProgress: [ 26%][49m[39m [#######....................] 8Selecting previously unselected package libjbig2dec0:amd64.
+Preparing to unpack .../29-libjbig2dec0_0.19-3build2_amd64.deb ...
+Unpacking libjbig2dec0:amd64 (0.19-3build2) ...
+7[34;0f[42m[30mProgress: [ 27%][49m[39m [#######....................] 8Selecting previously unselected package libpaper1:amd64.
+Preparing to unpack .../30-libpaper1_1.1.28build2_amd64.deb ...
+Unpacking libpaper1:amd64 (1.1.28build2) ...
+7[34;0f[42m[30mProgress: [ 28%][49m[39m [#######....................] 8Selecting previously unselected package libgs9:amd64.
+Preparing to unpack .../31-libgs9_9.55.0~dfsg1-0ubuntu5.13_amd64.deb ...
+Unpacking libgs9:amd64 (9.55.0~dfsg1-0ubuntu5.13) ...
+Selecting previously unselected package ghostscript.
+Preparing to unpack .../32-ghostscript_9.55.0~dfsg1-0ubuntu5.13_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 29%][49m[39m [#######....................] 8Unpacking ghostscript (9.55.0~dfsg1-0ubuntu5.13) ...
+Selecting previously unselected package gsfonts.
+Preparing to unpack .../33-gsfonts_1%3a8.11+urwcyr1.0.7~pre44-4.5_all.deb ...
+7[34;0f[42m[30mProgress: [ 30%][49m[39m [########...................] 8Unpacking gsfonts (1:8.11+urwcyr1.0.7~pre44-4.5) ...
+Selecting previously unselected package imagemagick-6.q16.
+Preparing to unpack .../34-imagemagick-6.q16_8%3a6.9.11.60+dfsg-1.3ubuntu0.22.04.5_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 31%][49m[39m [########...................] 8Unpacking imagemagick-6.q16 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+Selecting previously unselected package imagemagick.
+Preparing to unpack .../35-imagemagick_8%3a6.9.11.60+dfsg-1.3ubuntu0.22.04.5_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 32%][49m[39m [########...................] 8Unpacking imagemagick (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+Selecting previously unselected package jp2a.
+Preparing to unpack .../36-jp2a_1.1.1-1_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 33%][49m[39m [########...................] 8Unpacking jp2a (1.1.1-1) ...
+Selecting previously unselected package libdjvulibre-text.
+Preparing to unpack .../37-libdjvulibre-text_3.5.28-2ubuntu0.22.04.2_all.deb ...
+Unpacking libdjvulibre-text (3.5.28-2ubuntu0.22.04.2) ...
+7[34;0f[42m[30mProgress: [ 34%][49m[39m [#########..................] 8Selecting previously unselected package libdjvulibre21:amd64.
+Preparing to unpack .../38-libdjvulibre21_3.5.28-2ubuntu0.22.04.2_amd64.deb ...
+Unpacking libdjvulibre21:amd64 (3.5.28-2ubuntu0.22.04.2) ...
+7[34;0f[42m[30mProgress: [ 35%][49m[39m [#########..................] 8Selecting previously unselected package libilmbase25:amd64.
+Preparing to unpack .../39-libilmbase25_2.5.7-2_amd64.deb ...
+Unpacking libilmbase25:amd64 (2.5.7-2) ...
+7[34;0f[42m[30mProgress: [ 36%][49m[39m [#########..................] 8Selecting previously unselected package libjxr0:amd64.
+Preparing to unpack .../40-libjxr0_1.2~git20170615.f752187-5_amd64.deb ...
+Unpacking libjxr0:amd64 (1.2~git20170615.f752187-5) ...
+7[34;0f[42m[30mProgress: [ 37%][49m[39m [##########.................] 8Selecting previously unselected package libjxr-tools.
+Preparing to unpack .../41-libjxr-tools_1.2~git20170615.f752187-5_amd64.deb ...
+Unpacking libjxr-tools (1.2~git20170615.f752187-5) ...
+7[34;0f[42m[30mProgress: [ 38%][49m[39m [##########.................] 8Selecting previously unselected package libopenexr25:amd64.
+Preparing to unpack .../42-libopenexr25_2.5.7-1_amd64.deb ...
+Unpacking libopenexr25:amd64 (2.5.7-1) ...
+Selecting previously unselected package libwmflite-0.2-7:amd64.
+Preparing to unpack .../43-libwmflite-0.2-7_0.2.12-5ubuntu1_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 39%][49m[39m [##########.................] 8Unpacking libwmflite-0.2-7:amd64 (0.2.12-5ubuntu1) ...
+Selecting previously unselected package libmagickcore-6.q16-6-extra:amd64.
+Preparing to unpack .../44-libmagickcore-6.q16-6-extra_8%3a6.9.11.60+dfsg-1.3ubuntu0.22.04.5_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 40%][49m[39m [##########.................] 8Unpacking libmagickcore-6.q16-6-extra:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+Selecting previously unselected package libnetpbm10.
+Preparing to unpack .../45-libnetpbm10_2%3a10.0-15.4_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 41%][49m[39m [###########................] 8Unpacking libnetpbm10 (2:10.0-15.4) ...
+Selecting previously unselected package libpaper-utils.
+Preparing to unpack .../46-libpaper-utils_1.1.28build2_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 42%][49m[39m [###########................] 8Unpacking libpaper-utils (1.1.28build2) ...
+Selecting previously unselected package neofetch.
+Preparing to unpack .../47-neofetch_7.1.0-3_all.deb ...
+Unpacking neofetch (7.1.0-3) ...
+7[34;0f[42m[30mProgress: [ 43%][49m[39m [###########................] 8Selecting previously unselected package netpbm.
+Preparing to unpack .../48-netpbm_2%3a10.0-15.4_amd64.deb ...
+Unpacking netpbm (2:10.0-15.4) ...
+7[34;0f[42m[30mProgress: [ 44%][49m[39m [###########................] 8Selecting previously unselected package toilet-fonts.
+Preparing to unpack .../49-toilet-fonts_0.3-1.4_all.deb ...
+Unpacking toilet-fonts (0.3-1.4) ...
+7[34;0f[42m[30mProgress: [ 45%][49m[39m [############...............] 8Selecting previously unselected package toilet.
+Preparing to unpack .../50-toilet_0.3-1.4_amd64.deb ...
+Unpacking toilet (0.3-1.4) ...
+7[34;0f[42m[30mProgress: [ 46%][49m[39m [############...............] 8Selecting previously unselected package w3m.
+Preparing to unpack .../51-w3m_0.5.3+git20210102-6ubuntu0.2_amd64.deb ...
+Unpacking w3m (0.5.3+git20210102-6ubuntu0.2) ...
+7[34;0f[42m[30mProgress: [ 47%][49m[39m [############...............] 8Selecting previously unselected package w3m-img.
+Preparing to unpack .../52-w3m-img_0.5.3+git20210102-6ubuntu0.2_amd64.deb ...
+Unpacking w3m-img (0.5.3+git20210102-6ubuntu0.2) ...
+Selecting previously unselected package libsixel1:amd64.
+Preparing to unpack .../53-libsixel1_1.10.3-3_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 48%][49m[39m [#############..............] 8Unpacking libsixel1:amd64 (1.10.3-3) ...
+Selecting previously unselected package libsixel-bin.
+Preparing to unpack .../54-libsixel-bin_1.10.3-3_amd64.deb ...
+7[34;0f[42m[30mProgress: [ 49%][49m[39m [#############..............] 8Unpacking libsixel-bin (1.10.3-3) ...
+Setting up libpaper1:amd64 (1.1.28build2) ...
+7[34;0f[42m[30mProgress: [ 50%][49m[39m [#############..............] 8
+Creating config file /etc/papersize with new version
+Setting up libaom3:amd64 (3.3.0-1ubuntu0.1) ...
+7[34;0f[42m[30mProgress: [ 51%][49m[39m [#############..............] 8Setting up libx11-xcb1:amd64 (2:1.7.5-1ubuntu0.3) ...
+7[34;0f[42m[30mProgress: [ 52%][49m[39m [##############.............] 8Setting up imagemagick-6-common (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+7[34;0f[42m[30mProgress: [ 53%][49m[39m [##############.............] 8Setting up toilet-fonts (0.3-1.4) ...
+7[34;0f[42m[30mProgress: [ 54%][49m[39m [##############.............] 8Setting up fonts-noto-mono (20201225-1build1) ...
+7[34;0f[42m[30mProgress: [ 55%][49m[39m [##############.............] 8Setting up libcaca0:amd64 (0.99.beta19-2.2ubuntu4.2) ...
+7[34;0f[42m[30mProgress: [ 56%][49m[39m [###############............] 8Setting up libwmflite-0.2-7:amd64 (0.2.12-5ubuntu1) ...
+7[34;0f[42m[30mProgress: [ 57%][49m[39m [###############............] 8Setting up toilet (0.3-1.4) ...
+update-alternatives: using /usr/bin/figlet-toilet to provide /usr/bin/figlet (figlet) in auto mode
+Setting up libijs-0.35:amd64 (0.35-15build2) ...
+7[34;0f[42m[30mProgress: [ 58%][49m[39m [###############............] 8Setting up libjxr0:amd64 (1.2~git20170615.f752187-5) ...
+7[34;0f[42m[30mProgress: [ 59%][49m[39m [################...........] 8Setting up libwebpdemux2:amd64 (1.2.2-2ubuntu0.22.04.2) ...
+7[34;0f[42m[30mProgress: [ 60%][49m[39m [################...........] 8Setting up jp2a (1.1.1-1) ...
+7[34;0f[42m[30mProgress: [ 61%][49m[39m [################...........] 8Setting up libilmbase25:amd64 (2.5.7-2) ...
+7[34;0f[42m[30mProgress: [ 62%][49m[39m [################...........] 8Setting up libpaper-utils (1.1.28build2) ...
+7[34;0f[42m[30mProgress: [ 63%][49m[39m [#################..........] 8Setting up libnetpbm10 (2:10.0-15.4) ...
+7[34;0f[42m[30mProgress: [ 64%][49m[39m [#################..........] 8Setting up fonts-urw-base35 (20200910-1) ...
+7[34;0f[42m[30mProgress: [ 65%][49m[39m [#################..........] 8Setting up neofetch (7.1.0-3) ...
+7[34;0f[42m[30mProgress: [ 66%][49m[39m [#################..........] 8Setting up poppler-data (0.4.11-1) ...
+Setting up libchafa0:amd64 (1.8.0-1) ...
+7[34;0f[42m[30mProgress: [ 67%][49m[39m [##################.........] 8Setting up libopenexr25:amd64 (2.5.7-1) ...
+7[34;0f[42m[30mProgress: [ 68%][49m[39m [##################.........] 8Setting up libid3tag0:amd64 (0.15.1b-14) ...
+7[34;0f[42m[30mProgress: [ 69%][49m[39m [##################.........] 8Setting up w3m (0.5.3+git20210102-6ubuntu0.2) ...
+7[34;0f[42m[30mProgress: [ 70%][49m[39m [##################.........] 8Setting up libjbig2dec0:amd64 (0.19-3build2) ...
+7[34;0f[42m[30mProgress: [ 71%][49m[39m [###################........] 8Setting up gsfonts (1:8.11+urwcyr1.0.7~pre44-4.5) ...
+7[34;0f[42m[30mProgress: [ 72%][49m[39m [###################........] 8Setting up libsixel1:amd64 (1.10.3-3) ...
+7[34;0f[42m[30mProgress: [ 73%][49m[39m [###################........] 8Setting up libidn12:amd64 (1.38-4ubuntu1) ...
+7[34;0f[42m[30mProgress: [ 74%][49m[39m [####################.......] 8Setting up netpbm (2:10.0-15.4) ...
+7[34;0f[42m[30mProgress: [ 75%][49m[39m [####################.......] 8Setting up libltdl7:amd64 (2.4.6-15build2) ...
+7[34;0f[42m[30mProgress: [ 76%][49m[39m [####################.......] 8Setting up libfftw3-double3:amd64 (3.3.8-2ubuntu8) ...
+Setting up libx265-199:amd64 (3.5-2) ...
+7[34;0f[42m[30mProgress: [ 77%][49m[39m [####################.......] 8Setting up libgif7:amd64 (5.1.9-2ubuntu0.1) ...
+7[34;0f[42m[30mProgress: [ 78%][49m[39m [#####################......] 8Setting up liblqr-1-0:amd64 (0.4.2-2.1) ...
+7[34;0f[42m[30mProgress: [ 79%][49m[39m [#####################......] 8Setting up libopenjp2-7:amd64 (2.4.0-6ubuntu0.5) ...
+7[34;0f[42m[30mProgress: [ 80%][49m[39m [#####################......] 8Setting up fonts-droid-fallback (1:6.0.1r16-1.1build1) ...
+7[34;0f[42m[30mProgress: [ 81%][49m[39m [#####################......] 8Setting up libdjvulibre-text (3.5.28-2ubuntu0.22.04.2) ...
+7[34;0f[42m[30mProgress: [ 82%][49m[39m [######################.....] 8Setting up libdav1d5:amd64 (0.9.2-1) ...
+7[34;0f[42m[30mProgress: [ 83%][49m[39m [######################.....] 8Setting up libde265-0:amd64 (1.0.8-1ubuntu0.3) ...
+7[34;0f[42m[30mProgress: [ 84%][49m[39m [######################.....] 8Setting up libwebpmux3:amd64 (1.2.2-2ubuntu0.22.04.2) ...
+7[34;0f[42m[30mProgress: [ 85%][49m[39m [######################.....] 8Setting up libgs9-common (9.55.0~dfsg1-0ubuntu5.13) ...
+Setting up libjxr-tools (1.2~git20170615.f752187-5) ...
+7[34;0f[42m[30mProgress: [ 86%][49m[39m [#######################....] 8Setting up libgs9:amd64 (9.55.0~dfsg1-0ubuntu5.13) ...
+7[34;0f[42m[30mProgress: [ 87%][49m[39m [#######################....] 8Setting up libheif1:amd64 (1.12.0-2build1) ...
+7[34;0f[42m[30mProgress: [ 88%][49m[39m [#######################....] 8Setting up libdjvulibre21:amd64 (3.5.28-2ubuntu0.22.04.2) ...
+7[34;0f[42m[30mProgress: [ 89%][49m[39m [########################...] 8Setting up ghostscript (9.55.0~dfsg1-0ubuntu5.13) ...
+7[34;0f[42m[30mProgress: [ 90%][49m[39m [########################...] 8Setting up libsixel-bin (1.10.3-3) ...
+7[34;0f[42m[30mProgress: [ 91%][49m[39m [########################...] 8Setting up libmagickcore-6.q16-6:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+7[34;0f[42m[30mProgress: [ 92%][49m[39m [########################...] 8Setting up libimlib2:amd64 (1.7.4-1build1) ...
+7[34;0f[42m[30mProgress: [ 93%][49m[39m [#########################..] 8Setting up w3m-img (0.5.3+git20210102-6ubuntu0.2) ...
+7[34;0f[42m[30mProgress: [ 94%][49m[39m [#########################..] 8Setting up libmagickwand-6.q16-6:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+7[34;0f[42m[30mProgress: [ 95%][49m[39m [#########################..] 8Setting up caca-utils (0.99.beta19-2.2ubuntu4.2) ...
+Setting up libmagickcore-6.q16-6-extra:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+7[34;0f[42m[30mProgress: [ 96%][49m[39m [##########################.] 8Setting up chafa (1.8.0-1) ...
+7[34;0f[42m[30mProgress: [ 97%][49m[39m [##########################.] 8Setting up imagemagick-6.q16 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+7[34;0f[42m[30mProgress: [ 98%][49m[39m [##########################.] 8update-alternatives: using /usr/bin/compare-im6.q16 to provide /usr/bin/compare (compare) in auto mode
+update-alternatives: using /usr/bin/compare-im6.q16 to provide /usr/bin/compare-im6 (compare-im6) in auto mode
+update-alternatives: using /usr/bin/animate-im6.q16 to provide /usr/bin/animate (animate) in auto mode
+update-alternatives: using /usr/bin/animate-im6.q16 to provide /usr/bin/animate-im6 (animate-im6) in auto mode
+update-alternatives: using /usr/bin/convert-im6.q16 to provide /usr/bin/convert (convert) in auto mode
+update-alternatives: using /usr/bin/convert-im6.q16 to provide /usr/bin/convert-im6 (convert-im6) in auto mode
+update-alternatives: using /usr/bin/composite-im6.q16 to provide /usr/bin/composite (composite) in auto mode
+update-alternatives: using /usr/bin/composite-im6.q16 to provide /usr/bin/composite-im6 (composite-im6) in auto mode
+update-alternatives: using /usr/bin/conjure-im6.q16 to provide /usr/bin/conjure (conjure) in auto mode
+update-alternatives: using /usr/bin/conjure-im6.q16 to provide /usr/bin/conjure-im6 (conjure-im6) in auto mode
+update-alternatives: using /usr/bin/import-im6.q16 to provide /usr/bin/import (import) in auto mode
+update-alternatives: using /usr/bin/import-im6.q16 to provide /usr/bin/import-im6 (import-im6) in auto mode
+update-alternatives: using /usr/bin/identify-im6.q16 to provide /usr/bin/identify (identify) in auto mode
+update-alternatives: using /usr/bin/identify-im6.q16 to provide /usr/bin/identify-im6 (identify-im6) in auto mode
+update-alternatives: using /usr/bin/stream-im6.q16 to provide /usr/bin/stream (stream) in auto mode
+update-alternatives: using /usr/bin/stream-im6.q16 to provide /usr/bin/stream-im6 (stream-im6) in auto mode
+update-alternatives: using /usr/bin/display-im6.q16 to provide /usr/bin/display (display) in auto mode
+update-alternatives: using /usr/bin/display-im6.q16 to provide /usr/bin/display-im6 (display-im6) in auto mode
+update-alternatives: using /usr/bin/montage-im6.q16 to provide /usr/bin/montage (montage) in auto mode
+update-alternatives: using /usr/bin/montage-im6.q16 to provide /usr/bin/montage-im6 (montage-im6) in auto mode
+update-alternatives: using /usr/bin/mogrify-im6.q16 to provide /usr/bin/mogrify (mogrify) in auto mode
+update-alternatives: using /usr/bin/mogrify-im6.q16 to provide /usr/bin/mogrify-im6 (mogrify-im6) in auto mode
+Setting up imagemagick (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5) ...
+7[34;0f[42m[30mProgress: [ 99%][49m[39m [##########################.] 8Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.13) ...
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for fontconfig (2.13.1-4.2ubuntu5) ...
+
+7[0;34r8[1A[J[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ neofetch > exrfin/outpu t.txt
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ neofetch
+[?2004l[?25l[?7l[0m[31m[1m            .-/+oossssoo+/-.
+        `:+ssssssssssssssssss+:`
+      -+ssssssssssssssssssyyssss+-
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+   /sssssssssss[37m[0m[1mhdmmNNmmyNMMMMh[0m[31m[1mssssss/
+  +sssssssss[37m[0m[1mhm[0m[31m[1myd[37m[0m[1mMMMMMMMNddddy[0m[31m[1mssssssss+
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhmNMMMNh[0m[31m[1mssssssss/
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1mssssssssssssss[37m[0m[1mhmmmh[0m[31m[1mssssssso
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhdNMMMNh[0m[31m[1mssssssss/
+  +sssssssss[37m[0m[1mdm[0m[31m[1myd[37m[0m[1mMMMMMMMMddddy[0m[31m[1mssssssss+
+   /sssssssssss[37m[0m[1mhdmNNNNmyNMMMMh[0m[31m[1mssssss/
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+      -+sssssssssssssssss[37m[0m[1myyy[0m[31m[1mssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.[0m
+[20A[9999999D[43C[0m[1m[31m[1mchebur[0m@[31m[1mDESKTOP-OD7SQV6[0m 
+[43C[0m----------------------[0m 
+[43C[0m[31m[1mOS[0m[0m:[0m Ubuntu 22.04.5 LTS on Windows 10 x86_64[0m 
+[43C[0m[31m[1mKernel[0m[0m:[0m 6.6.114.1-microsoft-standard-WSL2[0m 
+[43C[0m[31m[1mUptime[0m[0m:[0m 2 hours, 9 mins[0m 
+[43C[0m[31m[1mPackages[0m[0m:[0m 785 (dpkg), 6 (snap)[0m 
+[43C[0m[31m[1mShell[0m[0m:[0m bash 5.1.16[0m 
+[43C[0m[31m[1mTheme[0m[0m:[0m Adwaita [GTK3][0m 
+[43C[0m[31m[1mIcons[0m[0m:[0m Adwaita [GTK3][0m 
+[43C[0m[31m[1mTerminal[0m[0m:[0m Windows Terminal[0m 
+[43C[0m[31m[1mCPU[0m[0m:[0m Intel i7-6700K (8) @ 4.007GHz[0m 
+[43C[0m[31m[1mGPU[0m[0m:[0m 3526:00:00.0 Microsoft Corporation Device 008e[0m 
+[43C[0m[31m[1mMemory[0m[0m:[0m 472MiB / 7910MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+
+
+
+[?25h[?7h[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ [K]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2026-06-05 11:05:13+07:00 [COMMAND_EXIT_CODE="0"]

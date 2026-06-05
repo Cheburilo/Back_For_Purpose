@@ -1,0 +1,32 @@
+Script started on 2026-06-05 10:47:10+07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="49" LINES="34"]
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ to[K[Keh[Kcho ""W"[1P"V"e"r"y" "s"e"c"r"e"t" [A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci"v"y" "k"e"y"," "s"o" "d"o"n"'"t" "[1P"[1P"[1P"t" "e"v"e"n" "t"r"y"e"[1P" "t"o" "h"a"c"k" "i"t"[C > secret.key [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ky
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ ls -l secret.key 
+[?2004l-rw-r--r-- 1 chebur chebur 48 Jun  5 10:47 secret.key
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ chmod 600 secret.key 
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ ls -l secret.key 
+[?2004l-rw------- 1 chebur chebur 48 Jun  5 10:47 secret.key
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ ls -l secret.key [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kchmod 600 secret.key [A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ [1Pls -l secret.key 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Very secretivy key, so dont even try to hack it" > secret.key [A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pls -l secret.key 
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchmod 600 secret.key [A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ [1Pls -l secret.key 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Very secretivy key, so dont even try to hack it" > secret.key [A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cxit[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat output.txt exit[Kcho "Very secretivy key, so dont even try to hack it" > secret.key [A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pls -l secret.key 
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchmod 600 secret.key [A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm secret.key c[K
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ rm secret.key [Kchmod 600 secret.key [A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ [1Pls -l secret.key 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Very secretivy key, so dont even try to hack it" > secret.key [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ky
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ echo "Very secretivy key, so dont even try to hack it" > secret.key [A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Prm secret.key 
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kchmod 600 secret.key [A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ [1Pls -l secret.key 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C>  before.txt
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ ls -l secret.key > before.txt[A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ echo "Very secretivy key, so dont even try to hack it" > secret.key [A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Prm secret.key 
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kchmod 600 secret.key 
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ chmod 600 secret.key [A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ ls -l secret.key > before.txt[A]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ echo "Very secretivy key, so dont even try to hack it" > secret.key [A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l secret.key > before.txt[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[6P.txt[Ca.txt[C[Cf.txtt.txte.txtr.txt
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/exr6[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/exr6[00m$ exit
+[?2004lexit
+
+Script done on 2026-06-05 10:49:47+07:00 [COMMAND_EXIT_CODE="0"]

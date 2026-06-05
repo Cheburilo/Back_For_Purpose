@@ -1,0 +1,47 @@
+Script started on 2026-06-05 10:18:18+07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="120" LINES="30"]
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ pwd
+[?2004l/home/chebur
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ cd /etc/
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: /etc[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m/etc[00m$ ls
+[?2004l[0m[01;34mPackageKit[0m                     debian_version  [01;34minit.d[0m          [01;34mminicom[0m         [01;34mpython3.10[0m     [01;34mssh[0m
+[01;34mX11[0m                            [01;34mdefault[0m         inputrc         mke2fs.conf     [01;34mpython3.11[0m     [01;34mssl[0m
+adduser.conf                   deluser.conf    [01;34miproute2[0m        [01;34mmodprobe.d[0m      [01;34mrc0.d[0m          subgid
+[01;34malternatives[0m                   [01;34mdepmod.d[0m        issue           modules         [01;34mrc1.d[0m          subgid-
+[01;34mapache2[0m                        [01;34mdhcp[0m            issue.net       [01;34mmodules-load.d[0m  [01;34mrc2.d[0m          subuid
+[01;34mapparmor[0m                       [01;34mdpkg[0m            [01;34mkernel[0m          [01;36mmtab[0m            [01;34mrc3.d[0m          subuid-
+[01;34mapparmor.d[0m                     e2scrub.conf    ld.so.cache     nanorc          [01;34mrc4.d[0m          sudo.conf
+[01;34mapt[0m                            [01;34memacs[0m           ld.so.conf      netconfig       [01;34mrc5.d[0m          sudo_logsrvd.conf
+bash.bashrc                    environment     [01;34mld.so.conf.d[0m    [01;34mnetplan[0m         [01;34mrc6.d[0m          sudoers
+bash_completion                [01;34menvironment.d[0m   [01;34mldap[0m            networks        [01;34mrcS.d[0m          [01;34msudoers.d[0m
+[01;34mbash_completion.d[0m              ethertypes      legal           [01;34mnewt[0m            [01;34mredis[0m          sysctl.conf
+bindresvport.blacklist         [01;34mfonts[0m           libaudit.conf   [01;32mnftables.conf[0m   [01;36mresolv.conf[0m    [01;34msysctl.d[0m
+[01;34mbinfmt.d[0m                       fstab           [01;34mlibnl-3[0m         nsswitch.conf   [01;36mrmt[0m            [01;34msystemd[0m
+[01;34mca-certificates[0m                fuse.conf       [01;34mlighttpd[0m        [01;34mopt[0m             rpc            [01;34mterminfo[0m
+ca-certificates.conf           gai.conf        locale.alias    [01;36mos-release[0m      rsyslog.conf   timezone
+ca-certificates.conf.dpkg-old  [01;34mgdb[0m             locale.gen      pam.conf        [01;34mrsyslog.d[0m      [01;34mtmpfiles.d[0m
+[01;34mcloud[0m                          [01;34mgroff[0m           [01;36mlocaltime[0m       [01;34mpam.d[0m           screenrc       ucf.conf
+[01;34mconsole-setup[0m                  group           [01;34mlogcheck[0m        passwd          [01;34msecurity[0m       [01;34mudev[0m
+[01;34mcron.d[0m                         group-          login.defs      passwd-         [01;34mselinux[0m        [01;34mupdate-motd.d[0m
+[01;34mcron.daily[0m                     gshadow         logrotate.conf  [01;34mperl[0m            [01;34msensors.d[0m      [01;34mvim[0m
+[01;34mcron.hourly[0m                    gshadow-        [01;34mlogrotate.d[0m     [01;34mpm[0m              sensors3.conf  [01;36mvtrgb[0m
+[01;34mcron.monthly[0m                   [01;34mgss[0m             lsb-release     [01;34mpolkit-1[0m        services       wgetrc
+[01;34mcron.weekly[0m                    [01;34mgtk-3.0[0m         machine-id      profile         [01;34msgml[0m           wsl.conf
+crontab                        hdparm.conf     magic           [01;34mprofile.d[0m       shadow         xattr.conf
+[01;34mdbus-1[0m                         host.conf       magic.mime      protocols       shadow-        [01;34mxdg[0m
+[01;34mdconf[0m                          hostname        manpath.config  [01;34mpulse[0m           shells         [01;34mxml[0m
+debconf.conf                   hosts           mime.types      [01;34mpython3[0m         [01;34mskel[0m
+[?2004h]0;chebur@DESKTOP-OD7SQV6: /etc[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m/etc[00m$ cd /var/;[Klo
+local/ lock/  log/   
+]0;chebur@DESKTOP-OD7SQV6: /etc[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m/etc[00m$ cd /var/lo
+local/ lock/  log/   
+]0;chebur@DESKTOP-OD7SQV6: /etc[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m/etc[00m$ cd /var/log
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: /var/log[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m/var/log[00m$ cd /usr/bin/
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: /usr/bin[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m/usr/bin[00m$ ls . | wc -l
+[?2004l1141
+[?2004h]0;chebur@DESKTOP-OD7SQV6: /usr/bin[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m/usr/bin[00m$ cd 
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ cd /yus[K[K[Kusr
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: /usr[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m/usr[00m$ cd ~
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2026-06-05 10:19:20+07:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,4 @@
+total 12
+drwxr-xr-x 2 chebur chebur 4096 Jun  5 10:29 .
+drwxr-xr-x 3 chebur chebur 4096 Jun  5 10:26 ..
+-rw-r--r-- 1 chebur chebur  292 Jun  5 10:28 README.txt
