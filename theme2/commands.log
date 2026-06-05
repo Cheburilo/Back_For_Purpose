@@ -1,0 +1,65 @@
+Script started on 2026-06-05 14:13:29+07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="84" LINES="25"]
+Welcome back, %USER! Today is Friday.
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ sudo useradd - [Km -s /bin/bash student
+[?2004l[sudo] password for chebur: 
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ sod[K[Kudo passwd student
+[?2004lNew password: 
+Retype new password: 
+passwd: password updated successfully
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ grte[K[K[Ke[Krep student /etc/passwd
+[?2004l[01;31m[Kstudent[m[K:x:1001:1001::/home/[01;31m[Kstudent[m[K:/bin/bash
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ grep student /etc/passwd > grep.txt
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ grep student /etc/passwd > grep.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P[C[8P[5P[7P[1@l[1@s[C[1@ [1@-[1@l[1@d[C[C[C[C[C[C[C[C[C[C[C[1@ [1@/[1@h[1@o[1@m[1@e[1@/[1@s[1@t[1@u[1@d[1@e[1@n[1@t[C
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ cat gls -ld /home/student > grep.txt[4@grep student /etc/passwd[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ grep student /etc/passwd > grep.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pls -ld /home/student[C[C[C[C[C[C[C[C[C[C[C[1Prep.txt[1Pep.txt[1Pp.txt[1P.txtl.txts.txt
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ c[Kls
+[?2004lREADME.md  grep.txt  ls.txt  [0m[01;34mtheme1[0m  [01;34mtheme2[0m  [01;34mtheme3[0m
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ cat ls.txt 
+[?2004ldrwxr-x--- 2 student student 4096 Jun  5 14:13 /home/student
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ su - student
+[?2004lPassword: 
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 6.6.114.1-microsoft-standard-WSL2 x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+This message is shown once a day. To disable it please create the
+/home/student/.hushlogin file.
+[?2004h]0;student@DESKTOP-OD7SQV6: ~[01;32mstudent@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ ls
+[?2004l[?2004h]0;student@DESKTOP-OD7SQV6: ~[01;32mstudent@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ s[Kwhoami > /home/chebur/monta[K[K[K[Ka[K[Kwhoami.txt
+[?2004l-bash: /home/chebur/whoami.txt: Permission denied
+[?2004h]0;student@DESKTOP-OD7SQV6: ~[01;32mstudent@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ whoami > /home/chebur/whoami.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@s[1@u[1@d[1@o[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6P.txt[Kmon[K[K[Kwhoami.txt
+[?2004l-bash: /home/chebur/whoami.txt: Permission denied
+[?2004h]0;student@DESKTOP-OD7SQV6: ~[01;32mstudent@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ sudo whoami > /home/chebur/whoami.txt[C[C[C[1P[1P[1P[1@u
+[?2004l-bash: /home/chebur/whoami.txt: Permission denied
+[?2004h]0;student@DESKTOP-OD7SQV6: ~[01;32mstudent@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ su whoami > /home/chebur/whoami.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+bin/        lib/        main.c      run/        usr/        wslPelHGD/
+boot/       lib32/      media/      sbin/       var/        
+dev/        lib64/      mnt/        snap/       wslDAePHD/  
+etc/        libx32/     opt/        srv/        wslDiafaB/  
+home/       lost+found/ proc/       sys/        wslLLhJID/  
+init        main        root/       tmp/        wslLmknHD/  
+]0;student@DESKTOP-OD7SQV6: ~[01;32mstudent@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ su whoami > /.[K[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[Kwhoami.txt
+[?2004l[?2004h]0;student@DESKTOP-OD7SQV6: ~[01;32mstudent@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ whoami > whoami.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txtp.txtw.txtd.txt[6P[1@p[1@w[1@d[C
+[?2004l[?2004h]0;student@DESKTOP-OD7SQV6: ~[01;32mstudent@DESKTOP-OD7SQV6[00m:[01;34m~[00m$ exit
+[?2004llogout
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ sudo userdel -s[Kr student
+[?2004luserdel: user student is currently used by process 7287
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ pid [K[K[K[Kpgrep 7287
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ pgrep 7287[K[K[K[K[K[K[K[K[K[Ksudo userdel -r student[11P -[C[C[C[C[C[C[C[C[11@do userdel -r[C[C[C[C[C[C[C[C
+[?2004luserdel: student mail spool (/var/mail/student) not found
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ grep stundet[Knt /etc/passwd
+[?2004l[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ ls -ld /home/
+[?2004ldrwxr-xr-x 3 root root 4096 Jun  5 14:19 [0m[01;34m/home/[0m
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ ls -ld /home/syt[K[Ktudent
+[?2004lls: cannot access '/home/student': No such file or directory
+[?2004h]0;chebur@DESKTOP-OD7SQV6: ~/montan[01;32mchebur@DESKTOP-OD7SQV6[00m:[01;34m~/montan[00m$ exit
+[?2004lexit
+
+Script done on 2026-06-05 14:19:56+07:00 [COMMAND_EXIT_CODE="2"]

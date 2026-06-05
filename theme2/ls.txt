@@ -1,0 +1,1 @@
+drwxr-x--- 2 student student 4096 Jun  5 14:13 /home/student
